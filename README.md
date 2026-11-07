@@ -4,15 +4,14 @@
 </picture>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-fast.vercel.app/api/streak?username=xAliakbar&theme=radical">
-  <img alt="streak" src="https://github-readme-stats-fast.vercel.app/api/streak?username=xAliakbar&theme=default">
-</picture>
-
-<picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=xAliakbar&layout=compact&theme=radical">
   <img alt="Top Langs" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=xAliakbar&theme=default">
 </picture>
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-fast.vercel.app/api/streak?username=xAliakbar&theme=radical">
+  <img alt="streak" src="https://github-readme-stats-fast.vercel.app/api/streak?username=xAliakbar&theme=default">
+</picture>
 
 
 
